@@ -1,0 +1,21 @@
+
+
+.wrapper{
+    background-color: blanchedalmond;
+    border-style: outset;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+}
+h1{
+    padding: 5px;
+    margin: auto;
+    width: 50%;
+}
+.yes{
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+}
